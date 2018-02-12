@@ -1,0 +1,16 @@
+.header{
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 24px;
+}
+
+p{
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size:18px;
+}
+
+h3{
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 20px;
+  text-transform:uppercase;
+  color:#717272;
+}
